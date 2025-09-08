@@ -1,3 +1,4 @@
+// src\controllers\itemController.js
 import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
