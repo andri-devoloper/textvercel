@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch src/server.js",
-     "build": "prisma generate"
+    "dev": "node --watch src/index.js",
+    "build": "prisma generate"
   },
   "keywords": [],
   "author": "",
